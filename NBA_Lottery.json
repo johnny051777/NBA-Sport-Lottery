@@ -179,7 +179,7 @@
     "status": "OK",
     "user": {
         "day_limit": 20,
-        "day_used": 9,
+        "day_used": 10,
         "email": "Trial User",
         "expiry": "2025-12-31"
     }

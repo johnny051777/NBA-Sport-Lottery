@@ -11,5 +11,7 @@ env/
 __pycache__/
 *.pyc
 
+# note
 /nba
+/玩法.md
 
